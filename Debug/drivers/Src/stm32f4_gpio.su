@@ -1,0 +1,11 @@
+stm32f4_gpio.c:4:6:GPIO_PeriClockControl	16	static
+stm32f4_gpio.c:51:6:GPIO_Init	32	static
+stm32f4_gpio.c:129:6:GPIO_DeInit	16	static
+stm32f4_gpio.c:152:9:GPIO_ReadFromInputPin	24	static
+stm32f4_gpio.c:158:10:GPIO_ReadFromInputPort	24	static
+stm32f4_gpio.c:168:6:GPIO_WriteToOutputPin	16	static
+stm32f4_gpio.c:180:6:GPIO_WriteToOutputPort	16	static
+stm32f4_gpio.c:184:6:GPIO_ToggleOutputPin	16	static
+stm32f4_gpio.c:192:6:GPIO_IRQInterruptConfig	16	static
+stm32f4_gpio.c:230:6:GPIO_IRQPriorityConfig	24	static
+stm32f4_gpio.c:237:6:GPIO_IRQHandling	16	static

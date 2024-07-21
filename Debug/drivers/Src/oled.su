@@ -1,0 +1,11 @@
+oled.c:10:6:ssd1306_I2C_Write	32	static
+oled.c:18:6:ssd1306_I2C_WriteMulti	296	static
+oled.c:42:9:ssd1306_Init	8	static
+oled.c:96:6:ssd1306_Fill	24	static
+oled.c:110:6:ssd1306_UpdateScreen	16	static
+oled.c:129:6:ssd1306_DrawPixel	16	static
+oled.c:160:6:ssd1306_WriteChar	48	static
+oled.c:199:6:ssd1306_WriteString	24	static
+oled.c:221:6:ssd1306_SetCursor	16	static
+oled.c:229:6:SSD1306_DrawBitmap	32	static
+oled.c:253:6:SSD1306_ClearScreen	16	static
